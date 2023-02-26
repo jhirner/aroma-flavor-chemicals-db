@@ -7,6 +7,7 @@ This repository houses a database of food chemicals with aroma and/or flavor dat
 ## Contents
 This repository includes:
 * Jupyter notebooks:
-    * `1-extraction-fenaroli.ipynb`: Crude data parsing of aroma/flavor data from *Fenaroli's Handbook of Flavor Ingredients*.
+    * `1-extraction-fenaroli.ipynb`: Crude data parsing of aroma/flavor data from a PDF copy of *Fenaroli's Handbook of Flavor Ingredients*.
+    * `2-extraction-common-materials.ipynb`: Crude data parsing of additional aroma/flavor data from a PDF copy of *Common Fragrance and Flavor Materials*.
 * Data files:
     * `aromas-flavors.db`: A SQLite database containing the extracted flavor and aroma data.
