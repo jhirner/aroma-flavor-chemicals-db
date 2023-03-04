@@ -21,6 +21,7 @@ venv.bak/
 
 # Raw data
 raw-data/
+work-in-progress/
 
 # SQLite
 *.db-shm
