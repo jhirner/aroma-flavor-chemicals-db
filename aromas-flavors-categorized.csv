@@ -10,8 +10,7 @@ name	CAS_num	aroma	flavor
 (+/-)-4-Ethyloctanal	58475-04-0	floral	
 (+/-)-4-Mercapto-4-Methyl-2-Pentanol		fruity floral	fruity floral fruity|citrusy
 (+/-)-Cis- And Trans-2-Methyl-2-(4-Methyl-3-Pentenyl)Cyclopropanecarbaldehyde		sharp|sour fruity|citrusy	sharp|sour fruity|citrusy
-(+/-)-Ethyl 2-Hydroxy-2-Methylbutyrate	"72332-34-4
-77-70-3"	sweet brown earthy|nutty	sweet brown
+(+/-)-Ethyl 2-Hydroxy-2-Methylbutyrate	77-70-3	sweet brown earthy|nutty	sweet brown
 (+/-)-Ethyl 2-Hydroxy-3-Methylvalerate	24323-38-4	fruity fruity|berry	fruity|berry
 (+/-)-Ethyl 3-Hydroxy-2-Methylbutyrate	27372-03-8		fruity
 (+/-)-Ethyl 3-Mercapto-2-Methylbutanoate			vegetal starchy
@@ -27,9 +26,7 @@ name	CAS_num	aroma	flavor
 (+/–) Heptan-3-Yl Butyrate	39026-94-3	sharp|bitter sharp|chemical	floral fruity sharp|sour sharp|spicy sharp|bitter sharp|chemical
 (+/–)-(2,6,6-Trimethyl-2-Hydroxycyclohexylidene) Acetic Acid Γ-Lactone	15356-74-8		fruity
 (+/–)-1-Acetoxy-1-Ethoxyethane	1608-72-6	fruity	
-(+/–)-1-Phenylethylmercaptan	"75081-57-1
-6263-65-6
-33877-11-1"	savory|meaty	
+(+/–)-1-Phenylethylmercaptan	6263-65-6	savory|meaty	
 (+/–)-2-(5-Methyl-5-Vinyltetrahydrofuran-2-Yl)Propionaldehyde	67920-63-2	floral	
 (+/–)-3-[(2-Methyl-3-Furyl)Thio]-2-Butanone	61295-44-1	savory|meaty	
 (+/–)-Cis- And Trans-3,5-Diethyl-1,2,4-Trithiolane	54644-28-9	sharp|sulfurous	vegetal
@@ -99,10 +96,7 @@ name	CAS_num	aroma	flavor
 1,2-Di[(1-Ethoxy)-Ethoxy]Propane	67715-79-1		earthy|nutty
 1,3,5-Undecatriene (A Mixture Of 1,3(E),5(Z)- And 1,3(E),5(E)-Isomers)	16356-11-9	fruity	vegetal
 1,3-Butanedithiol	24330-52-7	vegetal|allium sharp|sulfurous sharp|spicy	
-1,3-Butylene Glycol	"6290-03-5
-107-88-0
-18826-95-4
-24621-61-2"		sharp|bitter
+1,3-Butylene Glycol	6290-03-5		sharp|bitter
 1,3-Diphenyl-2-Propanone	102-04-5	fruity sharp|sour sharp|bitter sharp|salty earthy|nutty	sweet floral brown sharp|bitter
 1,3-Nonanediol Acetate, Mixed Esters	1322-17-4	floral	
 1,3-Propanedithiol	109-80-8	savory|meaty sharp|sulfurous	
@@ -138,13 +132,10 @@ name	CAS_num	aroma	flavor
 1-Methyl-1H-Pyrrole-2-Carboxaldehyde	1192-58-1	dairy	vegetal fruity
 1-Methyl-2,3-Cyclohexadione	3008-43-3	sharp|sour savory|cooked sharp|bitter	vegetal
 1-Methyl-2-Acetylpyrrole	932-16-1	brown vegetal|vegetable sharp|bitter starchy|bready	
-1-Methylnaphthalene	"78900-94-4
-90-12-0
-1321-94-4"	earthy fatty	
+1-Methylnaphthalene	78900-94-4	earthy fatty	
 1-Methylthio-2-Propanone	14109-72-9	fruity	vegetal
 1-Octanol	111-87-5	fruity|citrusy	vegetal|herbal
-1-Octen-3-Ol	"50999-79-6
-3391-86-4"	earthy vegetal|herbal	vegetal earthy|fungal vegetal|herbal
+1-Octen-3-Ol	50999-79-6	earthy vegetal|herbal	vegetal earthy|fungal vegetal|herbal
 1-Octen-3-One	4312-99-6	earthy|fungal	
 1-Octen-3-Yl Acetate	2442-10-6	floral earthy|fungal sharp|chemical	
 1-Octen-3-Yl Butyrate	16491-54-6	sharp|repugnant sweet fruity fruity|berry dairy fatty earthy earthy|fungal	earthy savory|fishy earthy|fungal sharp|repugnant
@@ -154,8 +145,7 @@ name	CAS_num	aroma	flavor
 1-Penten-3-Ol	616-25-1	vegetal	
 1-Penten-3-One	1629-58-9	sharp|spicy	
 1-Phenyl-1,2-Propanedione	579-07-7	fatty dairy	sharp|sour starchy|bready
-1-Phenyl-1-Propanol	"93842-54-7
-93-54-9"		sweet floral brown
+1-Phenyl-1-Propanol	93842-54-7		sweet floral brown
 1-Phenyl-3 Or 5-Propylpyrazole	65504-93-0	savory|cooked	
 1-Phenyl-3-Methyl-3-Pentanol	10415-87-9	fruity floral	fruity
 1-Terpinen-4-ol	562-74-3	earthy floral	
@@ -225,7 +215,6 @@ name	CAS_num	aroma	flavor
 2,4-Nonadienal		floral	vegetal|vegetable dairy
 2,4-Undecadienal			vegetal
 2,5,5-Trimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalen-2-ol	41199-19-3	sharp|repugnant	
-	123-32-0	earthy|nutty	
 2,5-Diethyl-3-Methylpyrazine	32736-91-7	savory|meaty savory|cooked earthy|nutty starchy|bready	
 2,5-Diethyltetrahydrofuran	41239-48-9	sweet dairy brown vegetal|herbal	
 2,5-Dihydroxy-1,4-Dithiane	40018-26-6	savory|meaty savory|cooked sharp|sulfurous starchy|bready	savory|cooked vegetal|vegetable sharp|chemical starchy|bready
@@ -243,9 +232,7 @@ name	CAS_num	aroma	flavor
 2,5-Dimethylfuran	625-86-5	savory|meaty savory|cooked sharp|spicy	savory|meaty fruity fatty
 2,5-Dimethylpyrazine	123-32-0	earthy starchy	savory|cooked sharp|repugnant starchy|bready
 2,5-Dithiahexane	6628-18-8	sharp|sulfurous dairy	vegetal fatty dairy
-2,5-Xylenol	"95-87-4
-145929-31-3
-50356-12-2"		earthy|nutty sharp|repugnant
+2,5-Xylenol	95-87-4	earthy|nutty sharp|repugnant	
 2,6,10-Trimethyl-2,6,10-Pentadecatrien-14-One		floral	
 2,6,10-Trimethyl-9-undecenal	141-13-9	floral	
 2,6,6-Trimethyl-1-Cyclohexen-1-Acetaldehyde	472-66-2	dairy	
@@ -262,8 +249,7 @@ name	CAS_num	aroma	flavor
 2,6-Dimethyl-4-Heptanone	108-83-8	fruity dairy vegetal|herbal	
 2,6-Dimethyl-5-Heptenal	106-72-9	fruity	fruity
 2,6-Dimethyl-5-hepten-1-al	106-72-9	fruity vegetal|vegetable	
-2,6-Dimethyl-6-Hepten-1-Ol	"36806-46-9
-40326-01-0"	fruity	
+2,6-Dimethyl-6-Hepten-1-Ol	36806-46-9	fruity	
 2,6-Dimethylpyrazine	108-50-9	sharp|bitter brown|chocolate earthy|nutty sharp|repugnant	savory|meaty sharp|repugnant savory|cooked starchy sharp|bitter earthy|nutty brown
 2,6-Dimethylpyridine	108-48-5	minty vegetal|herbal	earthy|nutty
 2,6-Dimethylthiophenol	118-72-9		savory|meaty
@@ -301,8 +287,7 @@ name	CAS_num	aroma	flavor
 2-Acetylpyridine	1122-62-9	vegetal|herbal	
 2-Acetylthiazole	24295-03-2	vegetal|allium vegetal vegetal|herbal	vegetal vegetal|vegetable
 2-Amyl-5 Or 6-Keto-1,4-Dioxane		fruity	
-2-Butanone	"78-93-3
-135311-02-3"	fruity	
+2-Butanone	78-93-3 	fruity	
 2-Butyl-2-Butenal	25409-08-9	sharp|sour	
 2-Butyl-5- Or 6-Keto-1,4-Dioxane	65504-95-2	fruity dairy	
 2-Butylfuran	4466-24-4	sharp|spicy	savory|meaty fruity sharp|spicy fruity|berry
@@ -325,8 +310,7 @@ name	CAS_num	aroma	flavor
 2-Ethyl-6-Methylpyrazine	13925-03-6	savory|cooked starchy	
 2-Ethylbutyl Acetate	10031-87-5	sharp|sulfurous sharp|sour	
 2-Ethylbutyraldehyde	97-96-1	sharp|sour earthy|dry	
-2-Ethylbutyric Acid	"88-09-5
-134331-89-8"	sharp|sour fatty	sharp|sour
+2-Ethylbutyric Acid	88-09-5 	sharp|sour fatty	sharp|sour
 2-Ethylfuran	3208-16-0	savory|cooked sharp|bitter	
 2-Ethylpyrazine	13925-00-3	earthy|woody fatty earthy|nutty dairy	savory|meaty savory|cooked brown|chocolate sharp|bitter earthy|nutty
 2-Ethylthiophenol	4500-58-7	savory|cooked sharp|bitter	vegetal|allium brown earthy|nutty sharp|bitter
@@ -350,9 +334,7 @@ name	CAS_num	aroma	flavor
 2-Hexylthiophene	18794-77-9	savory|meaty sharp|sulfurous	savory|meaty vegetal|vegetable fruity|berry
 2-Hydroxy-4-Methyl Benzaldehyde	698-27-1	sharp|bitter earthy|nutty	
 2-Hydroxyacetophenone	118-93-4	vegetal floral vegetal|herbal	savory|meaty fruity vegetal|herbal
-2-Hydroxybenzoic Acid	"7681-06-3
-8052-31-1
-69-72-7"	sharp|sour	
+2-Hydroxybenzoic Acid	69-72-7		sharp|sour
 2-Isobutyl-3-Methoxypyrazine	24683-00-9	vegetal|vegetable	
 2-Isobutyl-3-Methylpyrazine	13925-06-9	vegetal|vegetable	vegetal|herbal
 2-Isobutyl-4,5-Dimethyloxazole	26131-91-9	savory|cooked sharp|bitter	savory|meaty fruity
@@ -410,10 +392,8 @@ name	CAS_num	aroma	flavor
 2-Methylbutyl Acetate	624-41-9	fruity	fruity
 2-Methylbutyl-2-Methyl Butyrate	2445-78-5	fruity fruity|berry	
 2-Methylbutyl-3-Methylbutanoate	2445-77-4	sharp|sour	fruity vegetal|herbal
-2-Methylbutylamine	"2799-00-0
-34985-37-0"		savory|meaty fruity starchy
-2-Methylbutyraldehyde	"96-17-3
-57456-98-1"	sharp|sour brown|chocolate sharp|bitter	fruity brown|chocolate sharp|bitter
+2-Methylbutylamine	34985-37-0	savory|meaty fruity starchy	
+2-Methylbutyraldehyde	96-17-3	sharp|sour brown|chocolate sharp|bitter	fruity brown|chocolate sharp|bitter
 2-Methylbutyric Acid	116-53-0	sharp|sour fatty	earthy fruity earthy|woody
 2-Methylcyclohexanone	583-60-8	minty vegetal|herbal	
 2-Methylfuran	534-22-5	brown|chocolate savory|cooked sharp|spicy sharp|bitter	fruity dairy starchy|bready starchy fatty
@@ -428,8 +408,7 @@ name	CAS_num	aroma	flavor
 2-Methyltetrahydrothiophen-3-One	13679-85-1		brown sharp|spicy sharp|bitter vegetal|herbal
 2-Methylthiophenol	137-06-4		savory|meaty
 2-Methylundecanal	110-41-8	floral	sweet floral brown earthy|nutty
-2-Methylvaleric Acid	"22160-39-0
-97-61-0"	sharp|sour	sharp|sour
+2-Methylvaleric Acid	97-61-0	sharp|sour	sharp|sour
 2-Naphthyl Mercaptan	91-60-1	savory|meaty sharp|sulfurous earthy|fungal	sharp|sulfurous
 2-Nonanol	628-99-9	fruity	
 2-Nonanone	821-55-6	floral vegetal|herbal	dairy floral vegetal|herbal
@@ -457,11 +436,8 @@ name	CAS_num	aroma	flavor
 2-Phenoxyethyl Isobutyrate	103-60-6	floral sweet fruity sharp|sour brown	fruity
 2-Phenyl-2-Butenal	4411-89-6	floral earthy|woody earthy|nutty vegetal|herbal	
 2-Phenyl-3-(2-Furyl)-Prop-2-Enal	57568-60-2	dairy	
-2-Phenylpropionaldehyde	"93-53-8
-1340-11-0
-34713-70-7"	floral	
-2-Phenylpropionaldehyde Dimethyl Acetal	"90-87-9
-130605-86-6"	sharp|spicy earthy|nutty	fruity earthy|nutty
+2-Phenylpropionaldehyde	93-53-8	floral	
+2-Phenylpropionaldehyde Dimethyl Acetal	90-87-9	sharp|spicy earthy|nutty	fruity earthy|nutty
 2-Phenylpropyl Butyrate		sharp|sour fruity earthy|woody	earthy|woody
 2-Phenylpropyl Isobutyrate	65813-53-8	fruity earthy|woody dairy	fruity
 2-Propionyl-2-Thiazoline	29926-42-9	savory|cooked starchy	
@@ -473,9 +449,7 @@ name	CAS_num	aroma	flavor
 2-Pyridine Methanethiol	2044-73-7		savory|meaty
 2-Sec-Butylcyclohexanone	14765-30-1	earthy|woody sharp|repugnant	earthy|woody
 2-Thienyl Mercaptan	7774-74-5	sharp|sulfurous sweet savory|cooked sharp|bitter brown	sweet sharp|sulfurous brown
-2-Trans, 4-Trans-Decadienal	"30551-18-9
-2363-88-4
-25152-84-5"	savory|meaty fatty fruity|citrusy	savory|meaty vegetal starchy sharp|bitter fruity|citrusy
+2-Trans, 4-Trans-Decadienal	25152-84-5	savory|meaty fatty fruity|citrusy	savory|meaty vegetal starchy sharp|bitter fruity|citrusy
 2-Trans, 6-Trans-Nonadienal		vegetal fatty	dairy
 2-Trans-4-Trans-7-Cis-Decatrienal		fruity fruity|citrusy	fruity|citrusy
 2-Trans-6-Trans-Octadienal	56767-18-1		vegetal
@@ -654,10 +628,7 @@ name	CAS_num	aroma	flavor
 4-Acetyl-6-Tert-Butyl-1,1-Dimethylindane	13171-00-1		fatty
 4-Allyl-2, 6-Dimethoxyphenol	6627-88-9	savory|meaty savory|cooked sharp|bitter fatty	savory|meaty fruity savory|cooked fatty liquorlike
 4-Allylphenol	501-92-8		vegetal
-4-Aminobutyric Acid	"28805-76-7
-70582-09-1
-56-12-2
-3131-86-0"	savory|meaty savory	
+4-Aminobutyric Acid	56-12-2	savory|meaty savory	
 4-Carvomenthenol	562-74-3	vegetal|herbal	
 4-Decenal	30390-50-2	sharp|sour fruity|citrusy	
 4-Decenoic Acid	26303-90-2	fruity sharp|sour	
@@ -745,18 +716,12 @@ name	CAS_num	aroma	flavor
 5-Phenylpentanol	10521-91-2	floral	
 5H-5-Methyl-6,7-Dihydrocyclopenta(B)Pyrazine	23747-48-0	earthy savory|cooked earthy|nutty	savory|meaty savory vegetal|vegetable earthy|nutty
 6,10-Dimethyl-5,9-Undecadien-2-One		floral	floral
-6,7-Dihydro-1,1,2,3,3-pentamethyl-4(5H)-indanone	33 704-61-9	earthy|woody	
+6,7-Dihydro-1,1,2,3,3-pentamethyl-4(5H)-indanone	33	earthy|woody	
 6,7-Dihydro-2,3-Dimethyl-5H-Cyclopentapyrazine	38917-63-4	dairy	
 6-(Methylthio)Hexyl Isothiocyanate	4430-39-1	vegetal|vegetable	starchy sharp|spicy vegetal|vegetable vegetal|herbal
 6-Acetoxydihydrotheaspirane	72541-09-4	vegetal|herbal	savory|meaty
 6-Hydroxy-3,7-Dimethyl Octanoic Acid, Lactone	499-54-7	sweet brown	
-6-Hydroxydihydrotheaspirane	"77981-89-6
-57967-69-8
-77981-88-5
-57967-70-1
-73174-87-5
-53398-90-6
-57967-68-7"	earthy|woody	
+6-Hydroxydihydrotheaspirane	53398-90-6	earthy|woody	
 6-Methyl-3,5-Heptadien-2-One		sharp|sour brown vegetal|herbal	
 6-Methyl-5-Hepten-2-One	110-93-0	sweet sharp|bitter fruity|citrusy	sweet fruity sharp|bitter fruity|citrusy
 6-Methyl-5-Hepten-2-Yl Acetate	19162-00-6	fruity	fruity
@@ -778,12 +743,7 @@ Acetaldehyde Phenethyl Propyl Acetal	7493-57-4	vegetal	vegetal fruity vegetal|ve
 Acetaldehyde, Butyl Phenethyl Acetal	64577-91-9	vegetal earthy|dry	vegetal earthy|dry
 Acetamide	60-35-5		savory|meaty fruity starchy
 Acetanisole	100-06-1	sharp|sour	brown|vanilla vegetal|herbal dairy sharp|bitter fatty earthy|nutty
-Acetic Acid	"157090-22-7
-207004-55-5
-9035-69-2
-64-19-7
-68475-71-8
-77671-22-8"	sharp|sour fatty liquorlike dairy	fruity dairy sharp|sour fatty brown
+Acetic Acid	64-19-7	sharp|sour	
 Acetic Anhydride	108-24-7	sharp|sour	
 Acetoin	513-86-0	sharp|sour earthy|woody fatty dairy	fruity|berry dairy vegetal starchy sharp|sour fatty
 Acetolein	28060-90-4	sharp|sour	sharp|sour
@@ -812,11 +772,7 @@ Allyl Cyclohexanevalerate	7493-68-7	fruity	fruity fatty
 Allyl Disulfide	2179-57-9	vegetal|allium	vegetal|allium
 Allyl Heptanoate	142-19-8	fruity liquorlike	fruity
 Allyl Hexanoate	123-68-2	fruity	fruity
-Allyl Isothiocyanate	"58391-87-0
-50978-48-8
-57-06-7
-50888-64-7
-107231-30-1"	sharp|repugnant	vegetal sharp|repugnant
+Allyl Isothiocyanate	57-06-7	sharp|repugnant	vegetal sharp|repugnant
 Allyl Isovalerate	2835-39-4	fruity	fruity
 Allyl Mercaptan	870-23-5	vegetal|allium	vegetal|allium
 Allyl Methyl Disulfide	2179-58-0	vegetal|allium sharp|chemical	
@@ -828,8 +784,7 @@ Allyl Phenylacetate	1797-74-6	sweet fruity floral brown
 Allyl Propionate	2408-20-0	fruity sharp|sour	fruity
 Allyl Propyl Disulfide	2179-59-1	vegetal|allium fruity sharp|sulfurous	savory|meaty fruity vegetal|vegetable vegetal|allium
 Allyl Sorbate	7493-75-6	fruity	
-Allyl Sulfide	"132879-26-6
-592-88-1"	vegetal|allium fatty	sharp|sulfurous
+Allyl Sulfide	592-88-1	vegetal|allium fatty	sharp|sulfurous
 Allyl Thiohexanoate	156420-69-8	fruity sharp|sulfurous	vegetal|allium vegetal
 Allyl Tiglate	7493-71-2	earthy fruity earthy|woody fruity|berry	fruity earthy earthy|woody
 Allyl Valerate	6321-45-5		savory|meaty fruity
@@ -838,13 +793,7 @@ Allyl-2-Ethylbutyrate	7493-69-8	fruity sharp|sour	fruity
 Almond Bitter	8013-76-1	fruity earthy|fungal earthy|nutty sharp|repugnant	sharp|repugnant fruity sharp|sour sharp|bitter fatty earthy|fungal
 	84837-08-1	sharp|bitter	sharp|bitter fatty liquorlike vegetal|herbal
 Alpha-Ionene	475-03-6		fruity
-Alpha-Terpineol	"11103-96-1
-37195-01-0
-8000-41-7
-8031-32-1
-2438-12-2
-8006-39-1
-22347-88-2"	floral earthy|woody	floral vegetal|herbal fruity earthy|woody fruity|citrusy
+Alpha-Terpineol	11103-96-1	floral earthy|woody	floral vegetal|herbal fruity earthy|woody fruity|citrusy
 Althea Root		dairy	
 Ambergris		floral dairy vegetal sharp|salty earthy	floral vegetal|herbal fruity dairy liquorlike
 Ambrette Absolute Oil		floral liquorlike dairy	earthy|woody liquorlike
@@ -890,9 +839,7 @@ Artichoke Leaves			vegetal sharp|bitter dairy
 Asafetida Fluid Extract	9000-04-08	vegetal|allium sharp|bitter fatty dairy	sharp|bitter savory
 Asafetida Gum	9000-04-8	savory|meaty sharp|repugnant vegetal sharp|bitter vegetal|allium	sharp|bitter
 Asafetida Oil	72869-70-6	vegetal|allium sharp|bitter dairy	sharp|bitter
-Ascorbic Acid	"62624-30-0
-89924-69-6
-50-81-7"	sharp|sour	sharp|sour
+Ascorbic Acid	50-81-7	sharp|sour	sharp|sour
 Balm Leaves Extract	84082-61-1	dairy	
 Balm Oil	8014-71-9	dairy	
 Balsam (Peru) Oil		sharp|sour brown sharp|bitter dairy	sharp|sour brown sharp|bitter
@@ -908,25 +855,16 @@ Benzaldehyde	100-52-7	sharp|sour sharp|bitter earthy|nutty
 Benzaldehyde	100-52-7	sharp|sour fruity|citrusy	sharp|bitter earthy|nutty
 Benzaldehyde Propylene Glycol Acetal	2568-25-4	earthy|nutty	
 Benzenethiol	108-98-5	vegetal|allium sharp|sulfurous sharp|sour earthy|dry	
-Benzoic Acid	"65-85-0
-8013-63-6"	sharp|sour earthy|nutty	sharp|sour
-Benzoin	"9000-05-9
-9000-73-1
-579-44-2
-91845-21-5
-119-53-9
-8050-35-9"	sharp|sour brown	sharp|spicy
+Benzoic Acid	65-85-0	sharp|sour earthy|nutty	sharp|sour
+Benzoin	119-53-9	sharp|sour brown	sharp|spicy
 Benzoin Resin	9000-05-9	sharp|sour sweet brown sharp|bitter	sweet sharp|bitter sharp|spicy
 Benzophenone	119-61-9	floral	
 Benzophenone	119-61-9	floral	
-Benzothiazole	"95-16-9
-128366-28-9"	floral	savory|meaty
+Benzothiazole	95-16-9	floral	savory|meaty
 Benzyl 2,3-Dimethylcrotonate	7492-69-5	fruity sharp|spicy vegetal|herbal	
 Benzyl Acetate	140-11-4	sharp|sour floral sharp|bitter earthy|dry	floral sharp|bitter
 Benzyl Acetoacetate	5396-89-4	sharp|sour fruity floral brown	
-Benzyl Alcohol	"1336-27-2
-185532-71-2
-100-51-6"	fruity	
+Benzyl Alcohol	1336-27-2	fruity	
 Benzyl Benzoate	120-51-4	sharp|sour brown earthy|nutty	sharp|sour brown earthy|nutty
 Benzyl Butyl Ether	588-67-0	sharp|sulfurous fruity floral sharp|sour	fruity
 Benzyl Butyrate	103-37-7	fruity sharp|sour	fruity
@@ -938,27 +876,17 @@ Benzyl Hexanoate	6938-45-0	fruity sharp|sour	fruity
 Benzyl Isobutyrate	103-28-6	fruity floral fruity|berry	fruity fruity|berry
 Benzyl Isothiocyanate	622-78-6	vegetal|herbal	savory|meaty fruity
 Benzyl Isovalerate		fruity sharp|sour	
-Benzyl Mercaptan	"16528-58-8
-100-53-8"	vegetal|allium	vegetal|allium
+Benzyl Mercaptan	16528-58-8	vegetal|allium	vegetal|allium
 Benzyl Methoxyethyl Acetal	7492-39-9	fruity	
 Benzyl Phenylacetate	102-16-9	sweet sharp|sour floral brown	sweet floral brown
 Benzyl Propionate	122-63-4	fruity sharp|sour	fruity
 Benzyl Salicylate	118-58-1	floral fruity|berry	fruity|berry
-Benzyl Tiglate	"37526-88-8
-67674-41-3"	floral earthy|fungal	
+Benzyl Tiglate	37526-88-8	floral earthy|fungal	
 Benzylacetone	2550-26-7	floral fruity brown|chocolate sharp|bitter fatty	
 Bergamot		fruity floral sharp|bitter fruity|citrusy	floral fruity|citrusy
 Bergamot Oil	8007-75-8	fruity dairy	vegetal|herbal
-Betaine	"11042-12-9
-24980-93-6
-45631-77-4
-590-30-7
-107-43-7"		vegetal
-Biphenyl	"81846-81-3
-92-52-4
-68409-73-4
-56481-93-7
-72931-46-5"	floral	
+Betaine	11042-12-9		vegetal
+Biphenyl	81846-81-3	floral	
 Birch Sweet Oil	68917-50-0	dairy	minty earthy|woody fatty vegetal|herbal
 Birch Tar Oil	8001-88-5	sharp|sour vegetal brown	
 Birch, Sweet		savory|cooked earthy|dry	
@@ -975,11 +903,7 @@ Bois De Rose		floral earthy|woody
 Bois De Rose Oil	8015-77-8	earthy|woody dairy	
 Boldo Leaves	8022-81-9	vegetal sharp|spicy fatty	fatty
 Borneol	507-70-0	earthy|woody	minty vegetal|herbal
-Bornyl Acetate	"15313-72-1
-36386-52-4
-76-49-3
-76306-81-5
-92618-89-8"	fruity earthy|woody	earthy|woody
+Bornyl Acetate	15313-72-1	fruity earthy|woody	earthy|woody
 Bornyl Butyrate	85551-27-5	dairy vegetal|herbal	
 Bornyl Isovalerate	7779-73-9	earthy sharp|sour vegetal|herbal	
 Bornyl Valerate	7549-41-9	fruity vegetal|herbal	
@@ -995,12 +919,7 @@ Butyl 10-Undecenoate	109-42-2	fatty liquorlike dairy
 Butyl 2-Decenoate	7492-45-7	fruity sharp|sour	fruity
 Butyl Acetate	123-86-4	fruity sharp|sour	fruity
 Butyl Acetoacetate	591-60-6	sharp|sour	
-Butyl Alcohol	"107569-51-7
-14254-05-8
-42031-19-6
-220713-25-7
-35296-72-1
-71-36-3"	fruity|berry vegetal|herbal	
+Butyl Alcohol	107569-51-7	fruity|berry vegetal|herbal	
 Butyl Anthranilate	7756-96-9	vegetal|herbal	floral
 Butyl Butyrate	109-21-7	fruity	
 Butyl Butyryl Lactate	7492-70-8		vegetal brown dairy
@@ -1023,43 +942,26 @@ Butyl Salicylate	2052-14-4	minty sharp|sour vegetal|herbal
 Butyl Sulfide	544-40-1	vegetal|allium	
 Butylamine	109-73-9	sharp|chemical	
 Butylated Hydroxyanisole	25013-16-5		fatty
-Butylated Hydroxytoluene	"50356-19-9
-50641-99-1
-52683-46-2
-53571-70-3
-58500-82-6
-83047-16-9
-97123-41-6
-128-37-0
-950-56-1
-102962-45-8
-42615-30-5"	sharp|repugnant	
+Butylated Hydroxytoluene	50356-19-9	sharp|repugnant	
 Butyraldehyde	123-72-8	fruity|berry	sharp|repugnant
 Butyramide	541-35-5	earthy|nutty	savory|meaty fruity starchy earthy|nutty
 Cacao (Cocoa)		brown|chocolate fatty sharp|bitter	brown|chocolate sharp|bitter
 Cade Oil	8013-10-3	savory|meaty savory|cooked savory|fishy	
 Cadinene	29350-73-0	fatty	
-Caffeine	"71701-02-5
-95789-13-2
-58-08-2"	sharp|sour	sharp|sour sharp|salty
+Caffeine	71701-02-5	sharp|sour	sharp|sour sharp|salty
 Cajeput		sharp|bitter fatty	sharp|bitter
 Cajeput Oil	8008-98-8	earthy|woody sharp|bitter dairy	sharp|bitter
 Calamus (Prohibited)		vegetal fatty	vegetal
 Calamus Oil (Prohibited)		fatty	fatty
-Calcium Acetate	"62-54-4
-68307-87-9
-68649-07-0"	sharp|sour	
+Calcium Acetate	62-54-4	sharp|sour	
 Calumba Root			sharp|bitter
 Camomile Flower (Hungarian Or German)		sharp|sour sharp|bitter	sharp|bitter
 Camomile Flower (Roman Or English)		sharp|sour	vegetal floral
 Camomile Flower English Oil	8015-92-7	floral dairy	sharp|bitter fatty
 Camomile Flower Hungarian Oil	8002-66-2	dairy vegetal|herbal	
 Camomile Flower Roman Extract	84649-86-5	dairy	
-Camphene	"79-92-5
-5794-04-7
-565-00-4"	sharp|sour	sharp|spicy
-Campholene Acetate	"52486-39-2
-1727-68-0"	earthy|woody	
+Camphene	79-92-5	sharp|sour	sharp|spicy
+Campholene Acetate	52486-39-2	earthy|woody	
 Camphor Oil Formosan Ho-Sho Leaves	8022-91-1	vegetal floral	
 Camphor, Tree		vegetal sharp|bitter	sharp|bitter
 Cananga		floral earthy|woody	fatty
@@ -1083,15 +985,10 @@ Carrot		vegetal sharp|spicy fatty	sharp|spicy
 Carrot Oil	8015-88-1	fatty dairy	
 Carvacrol	499-75-2		sharp|spicy
 Carvacryl Ethyl Ether	4732-13-2	vegetal sharp|spicy vegetal|herbal	
-Carveol	"20307-86-2
-22567-18-6
-2102-59-2
-99-48-9"	minty vegetal|herbal	
-Carvone	"53763-73-8
-2244-16-8"	minty fatty vegetal|herbal	fatty
+Carveol	20307-86-2	minty vegetal|herbal	
+Carvone	53763-73-8	minty fatty vegetal|herbal	fatty
 Carvone-5,6-Oxide		sharp|spicy	vegetal|herbal
-Carvyl Acetate	"22567-13-1
-97-42-7"	minty vegetal|herbal	sharp|repugnant sharp|spicy sharp|chemical vegetal|herbal
+Carvyl Acetate	22567-13-1	minty vegetal|herbal	sharp|repugnant sharp|spicy sharp|chemical vegetal|herbal
 Caryophyllene Alcohol	56747-96-7	vegetal earthy sharp|spicy sharp|sour	sharp|sour brown sharp|spicy vegetal|herbal
 Caryophyllene Alcohol Acetate	32214-91-8	sharp|sour fruity earthy|woody	
 Cascara Sagrada			sharp|bitter
@@ -1168,8 +1065,7 @@ Cis-3-Hexenyl Benzoate	25152-85-6	earthy|woody vegetal|herbal
 Cis-3-Hexenyl Butyrate	16491-36-4	fruity sharp|sour fatty dairy	fruity|berry
 Cis-3-Hexenyl Cis-3-Hexenoate	61444-38-0	vegetal floral	
 Cis-3-Hexenyl Formate	33467-73-1	fruity	
-Cis-3-Hexenyl Hexanoate	"31501-11-8
-82780-67-4"	fruity sharp|sour	
+Cis-3-Hexenyl Hexanoate	31501-11-8	fruity sharp|sour	
 Cis-3-Hexenyl Isovalerate	35154-45-1	vegetal fruity fatty dairy	vegetal fruity fatty dairy
 Cis-3-Hexenyl Lactate	61931-81-5	fruity	
 Cis-3-Hexenyl-2-Methylbutyrate	53398-85-9	fruity sharp|sour dairy	fruity
@@ -1189,10 +1085,7 @@ Citral (Neral)	5392-40-5	sweet sharp|sour sharp|bitter fruity|citrusy	sweet shar
 Citral Diethyl Acetal	7492-66-2	fruity|citrusy	fruity|citrusy
 Citral Dimethyl Acetal	7549-37-3	dairy sharp|sour fruity|citrusy	
 Citral Propylene Glycol Acetal	10444-50-5	fruity sharp|sour fruity|citrusy	fruity sharp|sour fruity|citrusy
-Citric Acid	"77-92-9
-12262-73-6
-245654-34-6
-43136-35-2"	fruity fruity|citrusy	sharp|sour fruity|citrusy
+Citric Acid	77-92-9	fruity fruity|citrusy	sharp|sour fruity|citrusy
 Citric And Fatty Acid Esters Of Glycerol			savory|meaty
 Citronella	26489-02-1	dairy floral sharp|sour fruity|citrusy	floral
 Citronella Oil	8000-29-1	floral vegetal|herbal dairy starchy sharp|sour fatty fruity|citrusy	
@@ -1204,14 +1097,12 @@ Citronellyl Acetate	150-84-5	fruity floral	fruity floral
 Citronellyl Anthranilate	68555-57-7	fruity floral	floral
 Citronellyl Butyrate	141-16-2	fruity floral dairy	fruity
 Citronellyl Formate	105-85-1	fruity floral sharp|sour	fruity floral
-Citronellyl Isobutyrate	"97-89-2
-76444-25-2"	fruity floral	fruity
+Citronellyl Isobutyrate	97-89-2	fruity floral	fruity
 Citronellyl Oxyacetaldehyde	7492-67-3	floral	fruity|citrusy
 Citronellyl Phenylacetate	139-70-8	floral dairy	
 Citronellyl Propionate	141-14-0	sweet floral sharp|bitter	floral sweet fruity sharp|bitter fruity|citrusy
 Citronellyl Trans-2-Methyl-2-Butenoate	24717-85-9	floral liquorlike	savory|meaty floral fruity sharp|sour brown
-Citronellyl Valerate	"7540-53-6
-76444-26-3"	floral vegetal|herbal sweet dairy brown	
+Citronellyl Valerate	7540-53-6	floral vegetal|herbal sweet dairy brown	
 Citrus Peel		vegetal	
 Citrus Peel Extract		dairy	
 Civet Absolute		dairy	
@@ -1254,8 +1145,7 @@ Currant Buds Black Absolute	68606-81-5		sweet fruity fruity|berry
 Cyclamenaldehyde	103-95-7	floral	
 Cyclohexadecanone	2550-52-9	earthy|woody	
 Cyclohexane Acetic Acid	5292-21-7	sharp|sour dairy	sweet floral brown
-Cyclohexanecarboxylic Acid	"50825-29-1
-98-89-5"	sharp|sour dairy	fruity
+Cyclohexanecarboxylic Acid	50825-29-1	sharp|sour dairy	fruity
 Cyclohexaneethyl Acetate	21722-83-8	fruity sharp|sour	
 Cyclohexanone	108-94-1	minty vegetal|herbal	
 Cyclohexyl Acetate	622-45-7	sharp|sulfurous sharp|sour	
@@ -1293,29 +1183,18 @@ Dehydrodihydroionol	57069-86-0	dairy
 Dehydrodihydroionone	20483-36-7	dairy	
 Dehydromenthofurolactone		vegetal	vegetal|herbal earthy|woody vegetal minty earthy
 Dehydronootkatone	5090-63-1	sweet fruity brown fruity|citrusy	sharp|bitter fruity|citrusy
-Delta-Tetradecalactone	"2721-22-4
-92446-06-5"		savory|meaty fatty dairy
+Delta-Tetradecalactone	2721-22-4		savory|meaty fatty dairy
 Di-(1-Propenyl)-Sulfide (Mixture Of Isomers)	65819-74-1		savory|meaty vegetal
 Diacetyl	431-03-8	fruity|berry fatty liquorlike dairy	
 Diallyl Polysulfides	72869-75-1	vegetal|allium	vegetal
 Dibenzyl Ether	103-50-4	earthy floral earthy|fungal	
 Dicyclohexyl Disulfide	2550-40-5	sharp|repugnant fruity|berry	vegetal|allium
-Diethyl Disulfide	"110-81-6
-68525-88-2"	vegetal|allium vegetal|vegetable	savory|meaty fruity vegetal|allium
+Diethyl Disulfide	110-81-6	vegetal|allium vegetal|vegetable	savory|meaty fruity vegetal|allium
 Diethyl Malate	7554-12-3	fruity vegetal|herbal	
 Diethyl Sebacate	110-40-7	fruity sharp|sour liquorlike	
-Diethyl Succinate	"68989-32-2
-123-25-1"	fruity	floral sharp|repugnant
-Diethyl Sulfide	"68990-36-3
-352-93-2"	vegetal|allium	
-Diethyl Tartrate	"87-91-2
-57968-71-5
-128851-23-0
-168979-76-8
-181628-97-7
-45119-64-0
-608-84-4
-66473-11-8"	fruity liquorlike	
+Diethyl Succinate	68989-32-2	fruity	floral sharp|repugnant
+Diethyl Sulfide	68990-36-3	vegetal|allium	
+Diethyl Tartrate	87-91-2	fruity liquorlike	
 Diethyl Trisulfide	3600-24-6	sharp|sulfurous	vegetal
 Difurfuryl Ether	4437-22-3	savory|meaty savory sharp|bitter earthy|nutty brown	
 Dihydro-Α-Ionone	31499-72-6	earthy|woody	fruity fruity|berry
@@ -1346,13 +1225,7 @@ Disodium Succinate	150-90-3		sharp|sour
 Dittany Of Crete		sharp|bitter	sharp|bitter
 Divanillin		brown|vanilla fruity	fatty dairy
 Dl-(3-Amino-3-Carboxypropyl)Dimethylsulfonium Chloride	1115-84-0		sharp|sulfurous vegetal savory|fishy
-Dl-Isoleucine	"205879-85-2
-198412-80-5
-19883-67-1
-7004-09-3
-224311-99-3
-1509-34-8
-319-78-8"	sweet brown sharp|bitter	sharp|bitter
+Dl-Isoleucine	205879-85-2	sweet brown sharp|bitter	sharp|bitter
 Dl-Isomenthone	491-07-6	minty vegetal|herbal	minty vegetal|herbal
 Dl-Phenylalanine	150-30-1		earthy|nutty
 Dodecanal Dimethyl Acetal	14620-52-1	fruity|citrusy	floral fruity|citrusy
@@ -1374,12 +1247,9 @@ Erythrobic Acid			sharp|sour
 Estragole	140-67-0	vegetal|herbal	vegetal|herbal
 Ethane-1,1-Dithiol	69382-62-3	savory|meaty savory|cooked	savory|meaty fruity
 Ethanethioic Acid, S-(Methyl-3-Furanyl) Ester	55764-25-5	savory|meaty savory|cooked	vegetal
-Ethanethiol	"75-08-1
-811-51-8"	fruity sharp|sulfurous	savory|meaty fruity
+Ethanethiol	75-08-1	fruity sharp|sulfurous	savory|meaty fruity
 Ethyl (P-Tolyloxy) Acetate		sharp|chemical	fruity
-Ethyl 10-Undecenoate	"36118-46-4
-62453-48-9
-692-86-4"	liquorlike	
+Ethyl 10-Undecenoate	36118-46-4	liquorlike	
 Ethyl 2,4,7-Decatrienoate	78417-28-4		dairy
 Ethyl 2-(Methyldithio)Propionate	23747-43-5		vegetal
 Ethyl 2-(Methylthio)Acetate	4455-13-4	fruity	vegetal|allium vegetal vegetal|vegetable
@@ -1389,8 +1259,7 @@ Ethyl 2-Ethylbutyrate	2983-38-2		vegetal fruity
 Ethyl 2-Ethylhexanoate	2983-37-1	fruity vegetal|herbal	vegetal earthy vegetal|herbal
 Ethyl 2-Furanpropionate	10031-90-0	fruity floral sharp|sour	fruity
 Ethyl 2-Methyl-3-Pentenoate	1617-23-8		fruity
-Ethyl 2-Methyl-4-Pentenoate	"53399-81-8
-105999-68-6"	fruity	fruity
+Ethyl 2-Methyl-4-Pentenoate	53399-81-8	fruity	fruity
 Ethyl 2-Methylbutyrate	7452-79-1	fruity	fruity
 Ethyl 2-Methylpentanoate	39255-32-8		vegetal
 Ethyl 2-Nonynoate	10031-92-2	floral dairy	
@@ -1422,8 +1291,7 @@ Ethyl Cinnamate	103-36-6	sharp|sour floral brown sweet	sharp|sour brown
 Ethyl Cis-3-Hexenoate	64187-83-3	liquorlike	fruity
 Ethyl Cis-4,7-Octadienoate	69925-33-3	fruity	
 Ethyl Cis-4-Heptenoate	39924-27-1	fruity	vegetal fruity
-Ethyl Crotonate	"623-70-1
-77825-56-0"	sweet brown sharp|sour	liquorlike
+Ethyl Crotonate	623-70-1	sweet brown sharp|sour	liquorlike
 Ethyl Cyclohexanepropionate	10094-36-7	fruity sharp|sour	
 Ethyl Decanoate	110-38-3	fruity liquorlike	
 Ethyl Formate	109-94-4	liquorlike	fruity sharp|bitter
@@ -1433,8 +1301,7 @@ Ethyl Hexanoate	123-66-0	fruity	fruity
 Ethyl Isobutyrate	97-62-1	fruity sharp|sour	brown liquorlike
 Ethyl Isothiocyanate	542-85-8	sharp|spicy	savory|meaty fatty
 Ethyl Isovalerate	108-64-5	fruity	fruity
-Ethyl Lactate	"97-64-3
-2676-33-7"	sharp|sour fatty dairy	
+Ethyl Lactate	97-64-3	sharp|sour fatty dairy	
 Ethyl Laurate	106-33-2	fruity floral	
 Ethyl Levulinate	539-88-8	vegetal fruity sharp|sour	fruity
 Ethyl Maltol	4940-11-8	fruity sharp|sour	sharp|sour fruity sharp|bitter vegetal
@@ -1459,8 +1326,7 @@ Ethyl Tiglate	5837-78-5	sweet fruity brown
 Ethyl Trans-2-Decenoate	7367-88-6	fruity fatty	fruity
 Ethyl Trans-2-Hexenoate	27829-72-7	fruity	fruity
 Ethyl Trans-2-Methyl-2-Pentenoate	1617-40-9	fruity	fruity
-Ethyl Trans-2-Octenoate	"7367-82-0
-2351-90-8"	fruity earthy|woody	fruity
+Ethyl Trans-2-Octenoate	7367-82-0	fruity earthy|woody	fruity
 Ethyl Trans-4-Decenoate	76649-16-6	fruity dairy fruity|citrusy	
 Ethyl Undecanoate	627-90-7	brown liquorlike	fruity sharp|bitter sharp|chemical dairy
 Ethyl Valerate	539-82-2	fruity	fruity
@@ -1468,16 +1334,12 @@ Ethyl Vanillin	121-32-4	brown|vanilla fruity brown|chocolate sharp|bitter	brown|
 Ethyl Vanillin Isobutyrate	188417-26-7	dairy	sweet brown
 Ethyl Vanillin Propylene Glycol Acetal	68527-76-4	brown|vanilla	sharp|spicy vegetal|herbal
 Ethyl Vanillin Β-D-Glucopyranoside		brown|vanilla	
-Ethyl-2-Mercaptopropionate	"19788-49-9
-66707-26-4"	fruity sharp|sulfurous	
+Ethyl-2-Mercaptopropionate	19788-49-9	fruity sharp|sulfurous	
 Ethyl-3-Hydroxybutyrate	5405-41-4	fruity	
 Ethyl-3-Methylthiopropionate	13327-56-5	fruity fruity|citrusy	sharp|sulfurous vegetal|herbal fruity starchy sharp|spicy liquorlike brown
 Ethyl-4-(Acetylthio)Butyrate	104228-51-5	savory|meaty sweet	
 Ethyl-Trans-2, Cis-4-Decadienoate	3025-30-7	fruity	fruity
-Ethylamine	"85404-16-6
-85404-22-4
-75-04-7
-43031-21-6"	sharp|chemical	savory|meaty fruity
+Ethylamine	85404-16-6	sharp|chemical	savory|meaty fruity
 Ethylmaltol	4940-11-8	sweet brown	
 Eucalyptol	470-82-6		sharp|spicy vegetal|herbal
 Eucalyptus			vegetal
@@ -1487,8 +1349,7 @@ Eugenol	97-53-0	sharp|spicy vegetal|herbal	sharp|spicy vegetal|herbal
 Eugenyl Acetate	93-28-7	fatty vegetal|herbal	fatty vegetal|herbal
 Eugenyl Benzoate	531-26-0	sharp|sour brown vegetal|herbal	
 Eugenyl Isovalerate	61114-24-7	fruity vegetal|herbal	vegetal vegetal|herbal
-Eugenyl Methyl Ether	"6380-24-1
-93-15-2"	sharp|bitter vegetal|herbal	sharp|bitter vegetal|herbal
+Eugenyl Methyl Ether	6380-24-1	sharp|bitter vegetal|herbal	sharp|bitter vegetal|herbal
 Farnesene	502-61-4	fruity earthy|woody fatty vegetal|herbal	vegetal earthy|woody fruity|berry fruity|citrusy
 Farnesol	4602-84-0	floral fatty	
 Farnesol	4602-84-0	floral	floral
@@ -1508,19 +1369,12 @@ Fir Balsam Oil	8021-28-1	earthy|woody dairy sharp|sour fatty sharp|chemical brow
 Fir Balsam Oleoresin	977017-81-4	dairy	
 Fir Needles And Twigs Oil		earthy|woody fatty dairy	earthy|woody
 Fir Pine		sharp|sour brown earthy|woody sharp|bitter	sharp|bitter
-Formic Acid	"15907-03-6
-64-18-6
-7056-83-9
-8006-93-7
-82069-14-5"	sharp|sour fatty fruity|berry	sharp|sour
+Formic Acid	15907-03-6	sharp|sour fatty fruity|berry	sharp|sour
 Fumaric Acid	110-17-8		sharp|sour
 Furfural	98-01-1		brown
 Furfuryl 2-Methyl-3-Furyl Disulfide	109537-55-5	sharp|sulfurous	
 Furfuryl Acetate	623-17-6	fruity floral	
-Furfuryl Alcohol	"88161-36-8
-93793-62-5
-98-00-0
-25212-86-6"	sweet savory|cooked sharp|bitter	sweet savory|cooked sharp|bitter
+Furfuryl Alcohol	88161-36-8	sweet savory|cooked sharp|bitter	sweet savory|cooked sharp|bitter
 Furfuryl Isopropyl Sulfide	1883-78-9	savory|meaty savory	
 Furfuryl Isovalerate	13678-60-9	sharp|bitter fruity brown fruity|berry	
 Furfuryl Mercaptan	98-02-2	sharp|sulfurous sharp|sour	sharp|sulfurous savory
@@ -1573,33 +1427,14 @@ Ginger Oil	8007-08-7	sharp|spicy fatty dairy
 Ginger Oleoresin	8002-60-6	sharp|spicy earthy|woody vegetal|herbal	sharp|spicy earthy|woody vegetal|herbal
 Ginseng	84650-12-4	sweet vegetal|herbal	sweet sharp|bitter
 Glucose Pentaacetate	3891-59-6		sharp|bitter fruity|citrusy
-Glycerol	"8043-29-6
-29796-42-7
-30049-52-6
-37228-54-9
-75398-78-6
-78630-16-7
-8013-25-0
-175385-78-1
-25618-55-7
-64333-26-2
-56-81-5"	sweet	
+Glycerol	8043-29-6	sweet	
 Glycerol Ester Of Rosin	8050-31-5	sharp|sour	
 Glycerol Tributyrate	60-01-5	sharp|sour sharp|bitter	sharp|bitter
 Glyceryl 5-Hydroxydecanoate	26446-31-1	fatty	
 Glyceryl 5-Hydroxydodecanoate	26446-32-2	fatty	
 Glyceryl Monooleate	25496-72-4	fatty	
 Glyceryl Tripropanoate	139-45-7	dairy	sharp|bitter
-Glycine	"32817-15-5
-33242-26-1
-52955-63-2
-57678-19-0
-63183-41-5
-7490-95-1
-87867-94-5
-25718-94-9
-56-40-6
-17829-66-2"	sharp|sour	
+Glycine	32817-15-5	sharp|sour	
 Grains Of Paradise		savory|meaty fatty vegetal|herbal	vegetal sharp|spicy
 Grape Seed Extract		dairy	vegetal fruity sweet
 Grapefruit		savory fruity|citrusy	sharp|bitter fruity|citrusy
@@ -1609,13 +1444,10 @@ Guaiac (Gum)		floral vegetal|herbal	floral vegetal|herbal
 Guaiac Gum Extract	84650-13-5	brown sharp|bitter	sharp|bitter
 Guaiac Wood Extract		dairy	
 Guaiac Wood Oil		dairy floral earthy|woody vegetal|herbal	
-Guaiacol	"8021-39-4
-90-05-1
-26638-03-9"	savory|cooked	earthy|woody liquorlike
+Guaiacol	8021-39-4	savory|cooked	earthy|woody liquorlike
 Guaiacyl Acetate	613-70-7		earthy|woody
 Guaiacyl Phenylacetate	4112-89-4	savory|cooked earthy|woody sharp|spicy vegetal|herbal	savory|cooked earthy|woody sharp|spicy
-Guaiene	"34766-41-1
-88-84-6"	earthy sharp|spicy earthy|woody	sharp|spicy earthy|woody
+Guaiene	34766-41-1	earthy sharp|spicy earthy|woody	sharp|spicy earthy|woody
 Guaiol Acetate	134-28-1	floral sharp|sour fatty earthy|woody	floral fruity|berry
 Guar Gum	9000-30-0	fatty	
 Guarana (Gum)	84929-28-2	brown fatty	sharp|bitter brown fatty liquorlike
@@ -1645,9 +1477,7 @@ Hexyl 2-Methyl-3(Or 4)-Pentenoate	58625-95-9	fruity
 Hexyl 2-Methylbutyrate	10032-15-2	fruity sharp|sour	fruity sharp|sour fruity|berry
 Hexyl 3-Mercaptobutanoate	796857-79-9	fruity sharp|spicy vegetal|herbal	fruity floral
 Hexyl Acetate	142-92-7	floral sharp|sulfurous sweet fruity sharp|bitter sharp|sour	sweet fruity floral sharp|bitter
-Hexyl Alcohol	"25917-35-5
-111-27-3
-220713-27-9"	fruity fatty fruity|berry vegetal|herbal	fruity
+Hexyl Alcohol	25917-35-5	fruity fatty fruity|berry vegetal|herbal	fruity
 Hexyl Benzoate	6789-88-4	sharp|sour brown earthy|woody	
 Hexyl Butyrate	2639-63-6	fruity	fruity
 Hexyl Formate	629-33-4	fruity	
@@ -1674,9 +1504,7 @@ Horseradish	977050-94-4	vegetal sharp|spicy	sharp|spicy
 Horseradish Oil		fatty sharp|repugnant	
 Hyacinth (Flowers)		floral	
 Hyacinth Absolute	8023-94-7	vegetal floral brown	
-Hydratropaldehyde	"93-53-8
-1340-11-0
-34713-70-7"	floral	
+Hydratropaldehyde	93-53-8	floral	
 Hydrogen Sulfide	7783-06-4	sharp|sulfurous sharp|repugnant	
 Hydroquinone Monoethyl Ether	622-62-8	vegetal|herbal	
 Hydroxycitronellal	107-75-5	floral	
@@ -1696,8 +1524,7 @@ Isoamyl 3-(2-Furan)Propionate	7779-67-1	fruity floral sharp|sour	fruity
 Isoamyl 4(2-Furan)Butyrate	7779-66-0	sweet fruity dairy fatty brown	
 Isoamyl Acetate	123-92-2	sweet fruity sharp|bitter sharp|sour	sweet fruity sharp|bitter
 Isoamyl Alcohol	123-51-3	fruity|berry fatty liquorlike	
-Isoamyl Benzoate	"94-46-2
-54846-63-8"	fruity	
+Isoamyl Benzoate	94-46-2	fruity	
 Isoamyl Butyrate	106-27-4	fruity sharp|sour	
 Isoamyl Cinnamate	7779-65-9	sharp|sour brown|chocolate brown sharp|bitter	
 Isoamyl Formate	110-45-2	fruity fruity|berry	fruity|berry
@@ -1710,8 +1537,7 @@ Isoamyl Octanoate	2035-99-6	fruity
 Isoamyl Phenylacetate	102-19-2	floral sweet brown|chocolate sharp|bitter brown	floral brown|chocolate sharp|bitter
 Isoamyl Propionate	105-68-0	fruity fatty	sweet fruity sharp|bitter
 Isoamyl Pyruvate	7779-72-8	floral sweet fruity liquorlike brown	
-Isoamyl Salicylate	"87-20-7
-34377-38-3"	floral vegetal|herbal sweet sharp|bitter fatty	floral vegetal|herbal sweet fruity|berry minty sharp|bitter sharp|spicy
+Isoamyl Salicylate	87-20-7	floral vegetal|herbal sweet sharp|bitter fatty	floral vegetal|herbal sweet fruity|berry minty sharp|bitter sharp|spicy
 Isoborneol	124-76-5	sharp|sour earthy|woody	
 Isobornyl Acetate	125-12-2	earthy|woody	sharp|bitter sharp|chemical
 Isobornyl Formate	1200-67-5	sharp|sour earthy|woody	
@@ -1720,8 +1546,7 @@ Isobornyl Propionate	2756-56-1	sharp|sour
 Isobutyl 2-Butenoate	589-66-2	fruity sharp|sulfurous sharp|sour	
 Isobutyl Acetate	110-19-0	fruity floral sharp|sour	sharp|bitter
 Isobutyl Acetoacetate	7779-75-1	fruity liquorlike	fruity
-Isobutyl Alcohol	"68989-27-5
-78-83-1"	fruity|berry fruity liquorlike	
+Isobutyl Alcohol	68989-27-5	fruity|berry fruity liquorlike	
 Isobutyl Angelate	7779-81-9	fruity liquorlike	
 Isobutyl Anthranilate	7779-77-3	fruity|citrusy	
 Isobutyl Benzoate	120-50-3	vegetal floral	
@@ -1737,8 +1562,7 @@ Isobutyl Propionate	540-42-1	fruity earthy|dry	sharp|bitter
 Isobutyl Salicylate	87-19-4	floral sharp|sour vegetal|herbal	sharp|bitter
 Isobutyl-2-Furanpropionate	105-01-1	fruity sharp|sour liquorlike	sharp|sour brown liquorlike
 Isobutylamine	78-81-9	dairy	savory|meaty fruity starchy
-Isobutyraldehyde	"26140-46-5
-78-84-2"	sharp|sulfurous vegetal|herbal fruity|berry sharp|sour fatty	
+Isobutyraldehyde	26140-46-5	sharp|sulfurous vegetal|herbal fruity|berry sharp|sour fatty	
 Isobutyric Acid	79-31-2	sharp|sour fatty dairy	fruity sharp|sour fatty dairy
 Isoeugenol		floral fatty	
 Isoeugenyl Acetate		sharp|sour sharp|spicy vegetal|herbal	
@@ -1752,9 +1576,7 @@ Isophorone	78-59-1	minty earthy|woody vegetal|herbal	vegetal|herbal
 Isoprenyl Acetate	5205-07-2	fruity	
 Isopropyl 2-Methylbutyrate	66576-71-4	fruity	fruity
 Isopropyl Acetate	108-21-4	fruity	fruity
-Isopropyl Alcohol	"8013-70-5
-67-63-0
-5131-95-3"	liquorlike	
+Isopropyl Alcohol	8013-70-5	liquorlike	
 Isopropyl Benzoate	939-48-0	fruity	
 Isopropyl Butyrate	638-11-9	sharp|sour	
 Isopropyl Cinnamate	7780-06-5	fruity sharp|sour	fruity
@@ -1767,8 +1589,7 @@ Isopropyl Myristate	110-27-0	sharp|sour
 Isopropyl Phenylacetate	4861-85-2	sweet floral brown dairy	sweet floral brown liquorlike
 Isopropyl Propionate	637-78-5	sharp|sour	sweet fruity sharp|bitter
 Isopropyl Tiglate	1733-25-1	sharp|sulfurous sharp|sour	
-Isopropylamine	"85404-24-6
-75-31-0"	sharp|chemical	savory|meaty fruity
+Isopropylamine	85404-24-6	sharp|chemical	savory|meaty fruity
 Isopulegyl Acetate	57576-09-7	minty vegetal|herbal	earthy|woody
 Isoquercitrin, Enzymatically Modified	21637-25-2	dairy	
 Isoquinoline	119-65-3	sharp|sour brown vegetal|herbal	
@@ -1791,39 +1612,15 @@ Kola Nut (Cola Nut)		sharp|sour	vegetal sharp|bitter earthy|nutty
 Kola Nut Extract	68916-19-8	earthy brown	vegetal|herbal brown|chocolate earthy|woody sharp|bitter earthy|nutty
 L- And Dl-Alanine			vegetal
 L-Arginine		sharp|sour	vegetal
-L-Aspartic Acid	"39162-75-9
-6899-03-2
-27881-03-4
-181119-34-6
-221628-95-1
-25608-40-6
-26834-87-7
-181119-33-5"	sharp|sour	sharp|sour savory
+L-Aspartic Acid	39162-75-9	sharp|sour	sharp|sour savory
 L-Bornyl Acetate	5655-61-8	sharp|sour brown vegetal|herbal	savory|meaty floral fruity sharp|sour brown
 L-Carvyl Propionate	97-45-0	minty fruity vegetal|herbal	fruity minty vegetal|herbal
 L-Cysteine	62488-11-3	sharp|sulfurous sharp|sour	
-L-Glutamic Acid	"26717-13-5
-84960-48-5
-24938-00-9
-25513-46-6"	sharp|sour starchy|bready	savory|meaty
-L-Glutamine	"56-85-9
-26700-71-0
-32640-56-5"	sweet earthy vegetal|vegetable	
-L-Histidine	"184709-11-3
-4998-57-6
-7006-35-1
-71-00-1"		sharp|bitter
-L-Leucine	"71000-80-1
-21675-61-6
-25248-98-0
-70-45-1"		sharp|bitter
-L-Lysine	"26714-32-9
-25104-18-1
-6899-06-5
-280114-50-3
-48050-57-3
-12798-06-0
-20166-34-1"		vegetal
+L-Glutamic Acid	26717-13-5	sharp|sour starchy|bready	savory|meaty
+L-Glutamine	56-85-9	sweet earthy vegetal|vegetable	
+L-Histidine	184709-11-3		sharp|bitter
+L-Leucine	71000-80-1		sharp|bitter
+L-Lysine	26714-32-9		vegetal
 L-Malic Acid	97-67-6	sweet sharp|sour	sharp|sour
 L-Menthol Ethylene Glycol Carbonate		minty vegetal|herbal	
 L-Menthone 1,2-Glycerol Ketal	63187-91-7		minty vegetal|herbal
@@ -1831,22 +1628,14 @@ L-Menthyl Acetate	16409-45-3	minty floral vegetal|herbal	minty vegetal|herbal
 L-Menthyl Acetoacetate	59557-05-0		fruity
 L-Menthyl Lactate	59259-38-0	vegetal|herbal	
 L-Ornithine Monochlorohydrate/Ornithine	3184-13-2		savory|meaty
-L-Phenylalanine	"5297-02-9
-67675-33-6
-10549-09-4"	sharp|bitter	sharp|bitter
+L-Phenylalanine	5297-02-9	sharp|bitter	sharp|bitter
 L-Piperitone		vegetal|herbal	
 L-Proline	147-85-3	sharp|sour	
 Labdanum		sharp|sour brown fatty	
 Labdanum Absolute		dairy	
 Labdanum Oil	8016-26-0	floral vegetal|herbal dairy minty sharp|sour fatty vegetal|vegetable brown	
 Labdanum Oleoresin		dairy	
-Lactic Acid	"598-82-3
-152-36-3
-26100-51-6
-31587-11-8
-50-21-5
-10326-41-7
-1715-99-7"		sharp|sour
+Lactic Acid	598-82-3		sharp|sour
 Lactylated Fatty Acid Esters Of Glycerol And Propylene Glycol	444004-59-5	fatty	
 Laurel Bay Leaves Extract	84603-73-6	savory|meaty	
 Laurel Bay Leaves Oil	8007-48-5	fatty dairy	fatty
@@ -1882,9 +1671,7 @@ Lime Oil Terpeneless	68916-84-7	fruity	sharp|sour fruity|citrusy
 Limonene (D-, L-, And Dl-)	5989-27-5	sharp|sour fatty sharp|chemical fruity|citrusy	
 Linaloe		floral	
 Linaloe Wood Oil		floral fatty dairy	
-Linalool	"11024-20-7
-78-70-6
-22564-99-4"	vegetal floral	
+Linalool	11024-20-7	vegetal floral	
 Linalool Oxide	1365-19-1	earthy floral earthy|woody	
 Linalyl Acetate	115-95-7	floral fruity|citrusy	floral
 Linalyl Anthranilate	7149-26-0	floral fruity|citrusy	fruity|citrusy
@@ -1893,10 +1680,7 @@ Linalyl Butyrate	78-36-4	fruity	fruity floral
 Linalyl Cinnamate		floral	sharp|sour fruity brown
 Linalyl Formate	115-99-1	fruity floral sharp|sour fruity|citrusy	floral sweet fruity sharp|bitter fruity|citrusy
 Linalyl Hexanoate	7779-23-9	fruity	fruity
-Linalyl Isobutyrate	"94265-99-3
-94022-07-8
-78-35-3
-94346-07-3"	fruity floral	floral fruity|berry
+Linalyl Isobutyrate	94265-99-3	fruity floral	floral fruity|berry
 Linalyl Isovalerate	1118-27-0	fruity sharp|sour	fruity
 Linalyl Octanoate	10024-64-3	fruity vegetal|herbal	fruity
 Linalyl Phenylacetate	7143-69-3	floral	
@@ -1934,19 +1718,8 @@ Maté (Leaves)		vegetal sharp|bitter vegetal|herbal	vegetal sharp|bitter fatty
 Maté Absolute	68916-96-1	vegetal vegetal|herbal	fruity savory|cooked earthy|woody
 Melilotus		vegetal floral	
 Mentha Arvensis		minty vegetal|herbal	minty vegetal|herbal
-Menthol	"20747-49-3
-1490-04-6
-491-02-1
-15356-70-4
-63975-60-0"	minty vegetal|herbal	vegetal
-Menthone	"17627-49-5
-7786-64-3
-89-80-5
-36977-92-1
-491-07-6
-10458-14-7
-39307-52-3
-1074-95-9"	minty vegetal|herbal	vegetal|herbal
+Menthol	20747-49-3	minty vegetal|herbal	vegetal
+Menthone	17627-49-5	minty vegetal|herbal	vegetal|herbal
 Menthyl Isovalerate			fruity sharp|bitter earthy|woody vegetal|herbal
 Menthyl Valerate	8003-25-6	fruity vegetal|herbal	savory|meaty fruity
 Mesquite Wood Extract	93165-66-3	savory|cooked sharp|spicy	savory|meaty savory|cooked
@@ -1956,14 +1729,10 @@ Methoxypyrazine	3149-28-8	vegetal|herbal brown|chocolate sharp|bitter vegetal|ve
 Methyl (E)-2-(Z)-4-Decadienoate	4493-42-9	fruity sharp|sour vegetal|herbal fruity|citrusy	
 Methyl (Methylthio)Acetate	16630-66-3	fruity	
 Methyl 1-Acetoxycyclohexyl Ketone	52789-73-8	sweet fruity floral brown	
-Methyl 10-Undecenoate	"25339-67-7
-111-81-9"		fatty
+Methyl 10-Undecenoate	25339-67-7		fatty
 Methyl 2-Hexenoate		earthy fruity sharp|repugnant	fruity
 Methyl 2-Hydroxy-4-Methylpentanoate	40348-72-9	fruity sharp|repugnant	
-Methyl 2-Methyl-2-Propenoate	"9065-11-6
-80-62-6
-162221-54-7
-220713-32-6"	fruity	
+Methyl 2-Methyl-2-Propenoate	9065-11-6	fruity	
 Methyl 2-Methyl-3-Furyl Disulfide	65505-17-1	savory|meaty savory|cooked sharp|sulfurous	vegetal|allium savory|cooked sharp|sulfurous savory|meaty
 Methyl 2-Methylpentanoate	2177-77-7	fruity earthy|nutty fruity|berry	fruity
 Methyl 2-Methylthiobutyrate	42075-45-6		sharp|sulfurous
@@ -2001,15 +1770,12 @@ Methyl Isothiocyanate	556-61-6	sharp|spicy	savory|meaty fatty
 Methyl Isovalerate	556-24-1	fruity sharp|bitter vegetal|herbal	fruity sharp|bitter
 Methyl Jasmonate	1211-29-6	floral vegetal|herbal	floral
 Methyl Laurate	111-82-0	sharp|sulfurous floral sharp|sour liquorlike	
-Methyl Mercaptan	"74-93-1
-63933-47-1
-17719-48-1"	sharp|repugnant vegetal vegetal|vegetable fatty vegetal|allium	sharp|sulfurous savory
+Methyl Mercaptan	74-93-1	sharp|repugnant vegetal vegetal|vegetable fatty vegetal|allium	sharp|sulfurous savory
 Methyl Myristate	124-10-7	floral sweet sharp|sour vegetal|allium brown	
 Methyl N,N-Dimethylanthranilate	10072-05-6	vegetal fruity	savory|meaty fruity fruity|citrusy
 Methyl N-Acetylanthranilate	2719-08-6	fruity	savory|meaty fruity floral
 Methyl N-Formylanthranilate	41270-80-8	fruity	savory|meaty fruity
-Methyl Nicotinate	"93-60-7
-123574-61-8"	sweet brown earthy|nutty vegetal|herbal	
+Methyl Nicotinate	93-60-7	sweet brown earthy|nutty vegetal|herbal	
 Methyl Nonanoate	1731-84-6	brown liquorlike	brown liquorlike
 Methyl O-Methoxybenzoate	606-45-1	fruity liquorlike vegetal|herbal	fruity sharp|repugnant vegetal|herbal
 Methyl Octanoate	111-11-5	fruity fruity|citrusy	fruity
@@ -2023,8 +1789,7 @@ Methyl Propyl Disulfide	2179-60-4	vegetal|allium sharp|sulfurous sharp|salty veg
 Methyl Propyl Trisulfide	17619-36-2	vegetal|allium vegetal|herbal	vegetal|allium
 Methyl Salicylate	119-36-8	sharp|sour minty sharp|spicy vegetal|herbal	
 Methyl Sorbate	689-89-4	fruity vegetal|herbal	fruity
-Methyl Sulfide	"75-18-3
-31533-72-9"	sharp|sulfurous vegetal|vegetable	vegetal fruity sharp|sulfurous fruity|berry
+Methyl Sulfide	75-18-3	sharp|sulfurous vegetal|vegetable	vegetal fruity sharp|sulfurous fruity|berry
 Methyl Thiobutyrate	2432-51-1	sharp|sulfurous sharp|sour vegetal|vegetable	vegetal fruity sharp|repugnant
 Methyl Trans-2-Octenoate	2396-85-2	fruity	fruity
 Methyl Valerate	624-24-8	fruity	fruity
@@ -2043,9 +1808,7 @@ Methyl-N-Methylanthranilate	85-91-6	fruity sharp|repugnant fruity|citrusy	fruity
 Methyl-Α-Ionone	127-42-4		fruity
 Methyl-Β-Ionone	127-43-5	earthy|dry	
 Methylcyclopentenolone	765-70-8	sweet brown earthy|nutty	
-Methylsulfinylmethane	"164071-41-4
-8070-53-9
-67-68-5"	vegetal|allium vegetal|vegetable	vegetal|allium vegetal|vegetable starchy|bready
+Methylsulfinylmethane	164071-41-4	vegetal|allium vegetal|vegetable	vegetal|allium vegetal|vegetable starchy|bready
 Methylthio 2-(Acetyloxy) Propionate	74586-09-7		dairy
 Methylthio 2-(Propionyloxy) Propionate		dairy	savory|meaty
 Methylthiomethyl Butyrate	74758-93-3	fruity sharp|chemical	vegetal sharp|sulfurous
@@ -2070,10 +1833,7 @@ Myristaldehyde	124-25-4	sharp|sour fruity|citrusy	fruity|citrusy
 Myristic Acid	544-63-8	vegetal sharp|sour fatty	
 Myrrh (Gum)	9000-45-7	sharp|sour brown	
 Myrrh Oil	8016-37-3	sharp|sour brown dairy	sharp|sour floral brown fatty
-Myrtenol	"19250-18-1
-6712-78-3
-111957-74-5
-515-00-4"	earthy|woody	
+Myrtenol	19250-18-1	earthy|woody	
 Myrtenyl Acetate	1079-01-2	earthy|woody vegetal|herbal	vegetal earthy|woody vegetal|herbal
 Myrtle (Leaves)		vegetal floral	sharp|bitter fatty
 N,N-Dimethylphenethylamine	19342-01-9		savory|meaty fruity starchy
@@ -2082,8 +1842,7 @@ N-(Heptan-4-Yl)Benzo[D][1,3]Dioxole-5-Carboxamide	745047-51-2	savory|meaty savor
 N-3,7-Dimethyl-2,6-Octadienyl Cyclopropylcarboxamide	744251-93-2	savory|meaty savory|cooked brown	savory|meaty
 N-Benzoylanthranilic Acid	579-93-1	fruity	fruity
 N-Butyl Valerate	591-68-4	fruity fruity|berry	fruity|berry
-N-Butyl-2-Methylbutyrate	"144831-53-8
-15706-73-7"	fruity brown|chocolate sharp|bitter	
+N-Butyl-2-Methylbutyrate	144831-53-8	fruity brown|chocolate sharp|bitter	
 N-Butyric Acid	107-92-6	fruity fruity|berry dairy sharp|sour sharp|salty fatty	sharp|sour
 N-Cyclopropyl-Trans-2-Cis-6-Nonadienamide	608514-55-2	savory|meaty vegetal|herbal	savory|meaty vegetal
 N-Ethyl Trans-2-Cis-6-Nonadienamide	608514-56-3	savory|meaty sharp|spicy	vegetal
@@ -2127,9 +1886,7 @@ Nona-2-Trans,-6-Cis-Dienal	557-48-2	vegetal|vegetable
 Nonanal	124-19-6	floral fatty	
 Nonanal Dimethyl Acetal	18824-63-0	fruity fruity|citrusy	floral fruity|citrusy
 Nonanal Propyleneglycol Acetal	68391-39-9	fruity	savory|meaty fruity earthy|nutty
-Nonanoic Acid	"112-05-0
-58253-02-4
-68937-75-7"	sharp|sour	
+Nonanoic Acid	112-05-0	sharp|sour	
 Nonyl Acetate	143-13-5	floral fruity sharp|sour fruity|citrusy earthy|fungal	floral sharp|bitter earthy|fungal
 Nonyl Alcohol	143-08-8	fruity floral sharp|bitter	vegetal fruity sharp|bitter sharp|sour
 Nonyl Isovalerate	7786-47-2	fruity sharp|sour earthy|nutty fruity|citrusy	floral
@@ -2165,10 +1922,7 @@ Octyl Heptanoate	5132-75-2	fruity sharp|sour
 Octyl Isobutyrate	109-15-9	sharp|sour	fruity vegetal|herbal
 Octyl Octanoate	2306-88-9	vegetal|herbal	fruity
 Octyl Propionate	142-60-9	fruity|berry	
-Oleic Acid	"17156-84-2
-56833-51-3
-8046-01-3
-68412-07-7"	sharp|sour fatty	fatty
+Oleic Acid	17156-84-2	sharp|sour fatty	fatty
 Olibanum		sharp|sour brown fatty	
 Olibanum Oil	8016-36-2	sharp|sour brown	earthy|woody
 Onion Oil	8002-72-0	vegetal|allium fatty dairy	
@@ -2192,13 +1946,11 @@ Orris Root Extract		dairy	fruity|berry vegetal|herbal
 Osmanthus Absolute	68917-05-5	earthy|woody	earthy|woody liquorlike
 Oxabicyclo[3.3.0]Octane-3,3ʹ-(1ʹ-Oxa-2-Methyl)Cyclo-Pentane]		savory|meaty	
 P,Α,Α-Trimethylbenzyl Alcohol	1197-01-9		fruity
-P-Cymene	"4939-75-7
-99-87-6"	sharp|sour earthy|dry fruity|citrusy	vegetal vegetal|herbal
+P-Cymene	4939-75-7	sharp|sour earthy|dry fruity|citrusy	vegetal vegetal|herbal
 P-Dimethoxybenzene	150-78-7		sharp|bitter
 P-Ethoxybenzaldehyde	10031-82-0	floral vegetal|herbal	floral vegetal|herbal
 P-Isopropylacetophenone	645-13-6	sharp|spicy earthy|woody vegetal|herbal	sharp|spicy vegetal|herbal
-P-Isopropylbenzyl Alcohol	"536-60-7
-185532-73-4"	vegetal|herbal	
+P-Isopropylbenzyl Alcohol	536-60-7	vegetal|herbal	
 P-Isopropylphenylacetaldehyde	4395-92-0	sweet fruity sharp|bitter sharp|sour fruity|citrusy	sweet fruity sharp|bitter fruity|citrusy
 P-Menth-3-En-1-Ol	586-82-3	earthy|woody sharp|repugnant	
 P-Menth-8-En-1-Ol	138-87-4	earthy earthy|woody	
@@ -2211,8 +1963,7 @@ P-Mentha-1,8-Dien-7-Ol	536-59-4	sharp|sour
 P-Mentha-1,8-Dien-7-Yl-Acetate	15111-96-3	sharp|spicy vegetal|herbal	
 P-Mentha-8-Thiol-3-One	38462-22-5		earthy fruity fruity|berry
 P-Menthan-2-Ol	499-69-4	dairy	
-P-Menthan-2-One	"499-70-7
-59471-80-6"	minty vegetal|herbal	vegetal|herbal minty sharp|bitter liquorlike fruity|citrusy
+P-Menthan-2-One	499-70-7	minty vegetal|herbal	vegetal|herbal minty sharp|bitter liquorlike fruity|citrusy
 P-Menthane-3,8-Diol	42822-86-6	vegetal vegetal|herbal	
 P-Methoxybenzaldehyde	123-11-5	floral vegetal|herbal	sharp|bitter earthy|nutty fruity|berry vegetal|herbal
 P-Methoxycinnamaldehyde	1963-36-6	floral sharp|spicy	fruity dairy
@@ -2227,12 +1978,7 @@ P-Vinylphenol	2628-17-3	brown|vanilla
 P-Α-Dimethyl Styrene	1195-32-0	sharp|sour fruity|citrusy	sharp|spicy
 Palmarosa		floral sharp|sour vegetal|herbal	
 Palmarosa Oil		dairy floral vegetal|herbal	
-Palmitic Acid	"67701-02-4
-116860-99-2
-212625-86-0
-60605-23-4
-66321-94-6
-57-10-3"	fatty	
+Palmitic Acid	67701-02-4	fatty	
 Paprika Oleoresin	68917-78-2	dairy savory|cooked starchy|bready	
 Paprika*		savory|meaty fatty	vegetal fruity vegetal|herbal
 Paraldehyde	123-63-7	sharp|sour	
@@ -2265,8 +2011,7 @@ Petitgrain		fruity sharp|bitter
 Petitgrain Oil	8014-17-3	dairy	
 Phenethyl 2-Furoate	7149-32-8	sharp|repugnant sweet earthy brown earthy|fungal	
 Phenethyl Acetate	103-45-7	sweet floral brown	fruity fruity|berry
-Phenethyl Alcohol	"60-12-8
-1321-27-3"	sweet floral sharp|bitter brown	sharp|repugnant fruity starchy|bready sharp|bitter earthy|fungal
+Phenethyl Alcohol	60-12-8	sweet floral sharp|bitter brown	sharp|repugnant fruity starchy|bready sharp|bitter earthy|fungal
 Phenethyl Anthranilate	133-18-6	fruity sharp|bitter fruity|citrusy	
 Phenethyl Benzoate	94-47-3	sweet sharp|sour floral brown	
 Phenethyl Butyrate	103-52-6	fruity floral sharp|sour fruity|berry	sweet fruity floral brown
@@ -2294,17 +2039,9 @@ Phenylacetaldehyde Dimethyl Acetal	101-48-4	floral sharp|sour	sharp|spicy sharp|
 Phenylacetaldehyde Glyceryl Acetal	29895-73-6	floral	floral
 Phenylacetaldehyde-2,3-Butylene Glycol Acetal	5468-06-4		earthy fruity
 Phenylacetic Acid	103-82-2	floral sharp|sulfurous sweet sharp|sour brown	sweet floral brown
-Phosphoric Acid	"1339-32-8
-9043-01-0
-9044-08-0
-9066-91-5
-178560-73-1
-28602-75-7
-7664-38-2"		sharp|sour
+Phosphoric Acid	1339-32-8		sharp|sour
 Phthalide	87-41-2	brown	vegetal fruity floral vegetal|herbal
-Phytol	"5016-81-9
-150-86-7
-7541-49-3"	floral	savory|meaty floral fruity sharp|sour brown
+Phytol	5016-81-9	floral	savory|meaty floral fruity sharp|sour brown
 Phytyl Acetate	10236-16-5	sharp|sour brown	savory|meaty fruity
 Pimenta (Allspice)		fruity fruity|berry dairy sharp|spicy vegetal|vegetable	brown sharp|spicy vegetal|vegetable vegetal|herbal
 Pimenta (Allspice) Oil	8006-77-7	sharp|spicy fruity|berry dairy	fatty
@@ -2340,11 +2077,7 @@ Propenyl Propyl Disulfide	5905-46-4	vegetal|allium	vegetal|allium fatty
 Propenylguaethol	94-86-0	brown|vanilla	brown|vanilla
 Propenylguethol		brown|vanilla floral brown sweet	
 Propionaldehyde	123-38-6	fatty	
-Propionic Acid	"68990-37-4
-79-09-4
-3349-08-4
-68937-68-8
-784139-72-6"	sharp|sour	sharp|sour
+Propionic Acid	68990-37-4	sharp|sour	sharp|sour
 Propiophenone	93-55-0	floral	
 Propyl 2,4-Decadienoate		fruity	fruity
 Propyl 2-Furanacrylate		sweet fruity fruity|berry sharp|sour brown	sweet fruity brown
@@ -2352,8 +2085,7 @@ Propyl 2-Furoate	615-10-1	earthy vegetal|herbal
 Propyl 2-Mercaptopropionate	19788-50-2	savory|meaty savory|cooked brown	
 Propyl 2-Methyl-3-Furyl Disulfide	61197-09-9	savory|meaty	
 Propyl Acetate	109-60-4	sweet fruity sharp|bitter fruity|berry	sweet fruity sharp|bitter fruity|berry
-Propyl Alcohol	"71-23-8
-62309-51-7"	fruity liquorlike	fruity
+Propyl Alcohol	71-23-8	fruity liquorlike	fruity
 Propyl Benzoate	2315-68-6	sharp|sour brown earthy|nutty	fruity earthy|nutty
 Propyl Butyrate	105-66-8	fruity sharp|sour	fruity
 Propyl Cinnamate	7778-83-8	fruity liquorlike	fruity liquorlike
@@ -2364,9 +2096,7 @@ Propyl Heptanoate	7778-87-2	sharp|sour	fruity
 Propyl Isobutyrate	644-49-5	fruity	
 Propyl Isovalerate	557-00-6	sweet fruity sharp|bitter	sweet fruity sharp|bitter
 Propyl Mercaptan	107-03-9	vegetal|vegetable	vegetal|allium vegetal|vegetable
-Propyl P-Hydroxybenzoate	"94-13-3
-59593-07-6
-85403-59-4"	sharp|chemical	
+Propyl P-Hydroxybenzoate	94-13-3	sharp|chemical	
 Propyl Phenylacetate	4606-15-9	sweet fruity floral brown	sweet floral brown
 Propyl Propane Thiosulfonate		savory|cooked brown	savory|meaty vegetal|allium
 Propyl Propionate	106-36-5	fruity	sharp|bitter
@@ -2380,10 +2110,7 @@ Pyrazine Ethanethiol		savory|meaty sharp|sulfurous vegetal|vegetable	savory|meat
 Pyrazinyl Methyl Sulfide	21948-70-9	sharp|sulfurous	
 Pyroligneous Acid	8030-97-5	savory|cooked sharp|sour earthy|woody	savory|cooked sharp|sour earthy|woody
 Pyroligneous Acid Extract	8028-47-5	savory|cooked sharp|sour	
-Pyrrole	"21995-14-2
-45361-50-0
-109-97-7
-30604-81-0"	savory|meaty	
+Pyrrole	21995-14-2	savory|meaty	
 Pyrrolidine	123-75-1	sharp|chemical	sharp|chemical
 Pyrrolidino-[1,2E]-4H-2,4-Dimethyl-1,3,5-Dithiazine		savory|meaty savory|cooked brown	savory|meaty
 Pyruvaldehyde	78-98-8	sweet brown	sweet brown
@@ -2398,8 +2125,7 @@ Quinine			sharp|bitter
 Quinine Bisulfate	549-56-4	sharp|bitter dairy	sharp|bitter
 Quinine Hydrochloride	130-89-2		sharp|bitter
 Quinine Sulfate	6119-70-6		sharp|bitter
-Quinoline	"91-22-5
-20214-07-7"	sharp|repugnant	earthy
+Quinoline	91-22-5	sharp|repugnant	earthy
 Raspberry		floral fruity|berry vegetal|herbal	sweet liquorlike sharp|sour fruity|berry
 Rhatany		vegetal|herbal	brown sharp|bitter
 Rhatany Extract	84775-95-1	dairy	
@@ -2429,24 +2155,16 @@ S-Isopropyl 3-Methylbut-2-Enethioate	34365-79-2	vegetal|allium fruity	savory|mea
 S-Methyl 3-Methylbutanethioate	23747-45-7		vegetal dairy
 S-Methyl Propanethioate	5925-75-7	fruity sharp|sulfurous dairy	fruity savory|fishy
 Saccharin, Sodium Salt	128-44-9	sharp|salty	sharp|salty
-Saffron	"94238-00-3
-42553-65-1
-1329-79-9
-52841-81-3
-53178-29-3
-11012-59-2"	savory|meaty floral sharp|spicy vegetal|herbal	sharp|bitter vegetal|herbal
+Saffron	94238-00-3	savory|meaty floral sharp|spicy vegetal|herbal	sharp|bitter vegetal|herbal
 Saffron Extract	84604-17-1	dairy	
-Safrole	"94-59-7
-1406-55-9
-8022-92-2"	vegetal|herbal	
+Safrole	94-59-7	vegetal|herbal	
 Sage Oil	8022-56-8	dairy fatty vegetal|herbal	
 Sage Oleoresin			savory|meaty
 Sage, Greek		vegetal|herbal	
 Sage, Spanish		vegetal|herbal	
 Sage, Spanish Oil		dairy	
 Saint John’S Wort		sharp|sour starchy brown liquorlike	sharp|sour starchy brown
-Salicylaldehyde	"90-02-8
-27761-48-4"	sharp|bitter earthy|nutty	sharp|spicy earthy|nutty
+Salicylaldehyde	90-02-8	sharp|bitter earthy|nutty	sharp|spicy earthy|nutty
 Sandalwood, White		vegetal earthy|woody	
 Sandalwood, Yellow Oil		vegetal earthy|woody fatty dairy	earthy|woody
 Sandarac	9000-57-1	sharp|sour brown sharp|chemical	
@@ -2463,8 +2181,7 @@ Savory, Summer		savory vegetal|herbal	vegetal|herbal
 Savory, Winter		sharp|sour sharp|spicy savory sharp|bitter	sharp|bitter savory vegetal|herbal
 Schinus Molle		sharp|spicy	sharp|spicy
 Schinus Molle Oil	68917-52-2	vegetal sharp|spicy fatty dairy	sharp|spicy fatty
-Sclareolide	"1216-84-8
-564-20-5"	earthy|woody	vegetal
+Sclareolide	1216-84-8	earthy|woody	vegetal
 Scotch Spearmint Oil	91770-24-0	minty vegetal|herbal	vegetal sharp|spicy minty vegetal|herbal
 Sec-Butyl Ethyl Ether	2679-87-0	sharp|chemical	
 Sec-Butylamine	13952-84-6	sharp|chemical	savory|meaty fruity starchy
@@ -2480,9 +2197,7 @@ Sodium 3-Mercaptooxopropionate	10255-67-1	vegetal
 Sodium 3-Methoxy-4-Hydroxycinnamate	24276-84-4	floral	
 Sodium 4-Methoxybenzoyloxyacetate	17114-82-8	savory|cooked	
 Sodium Benzoate	532-32-1	sharp|sour brown	sharp|sour
-Sodium Citrate	"68-04-2
-8055-55-8
-19287-96-8"		sharp|sour
+Sodium Citrate	68-04-2		sharp|sour
 Sodium Diacetate	126-96-5	sharp|sour	
 Sorbitan Monostearate	1338-41-6	sharp|sour	
 Spearmint		minty vegetal|herbal	minty vegetal|herbal
@@ -2490,25 +2205,7 @@ Spearmint Extract	84696-51-5		minty fatty vegetal|herbal
 Spearmint Oil	8008-79-5	fatty	vegetal|herbal vegetal minty sharp|spicy fatty
 Star Anise		dairy	floral
 Star Anise Oil	68952-43-2	fatty vegetal|herbal	
-Stearic Acid	"609343-71-7
-68937-76-8
-134503-33-6
-39390-61-9
-58392-66-8
-8013-28-3
-8023-06-1
-57-11-4
-8037-83-0
-8037-40-9
-8039-52-9
-8039-53-0
-8039-54-1
-82497-27-6
-126539-56-8
-30399-84-9
-57485-56-0
-85404-83-7
-8039-51-8"	sharp|sour fatty	sharp|sour fatty
+Stearic Acid	609343-71-7	sharp|sour fatty	sharp|sour fatty
 Storax	8046-19-3	sharp|sour brown sharp|spicy dairy	
 Storax Extract		dairy	floral
 Storax Oil		sharp|sour brown fatty sharp|spicy	floral
@@ -2526,9 +2223,7 @@ Tamarind Extract	84961-62-6	sweet	sharp|sour
 Tangelo Oil	72869-73-9	fruity|citrusy	
 Tannic Acid	1401-55-4	sharp|sour	
 Tansy Oil	8016-87-3	sharp|spicy fatty	
-Tarragon	"140-67-0
-1407-27-8
-77525-18-9"	vegetal sharp|spicy vegetal|herbal	savory|meaty floral vegetal|herbal vegetal sharp|sour
+Tarragon	140-67-0	vegetal sharp|spicy vegetal|herbal	savory|meaty floral vegetal|herbal vegetal sharp|sour
 Tarragon Oil	8016-88-4	savory|fishy sharp|spicy fatty dairy	
 Taurine	107-35-7		vegetal sharp|sour sharp|bitter
 Tea Extract	84650-60-2	vegetal floral earthy|woody vegetal|herbal	fruity floral
@@ -2542,20 +2237,14 @@ Terpinyl Isobutyrate	7774-65-4	fruity floral sharp|sour vegetal|herbal	fruity
 Terpinyl Isovalerate	1142-85-4	floral earthy|woody	fruity sharp|bitter
 Terpinyl Propionate			floral sharp|bitter
 Tetradec-2-Enal	51534-36-2	fruity|citrusy	savory|meaty fruity fruity|citrusy
-Tetrahydro-Pseudo-Ionone	"1322-58-3
-4433-36-7"	sharp|sour floral brown earthy|woody	fruity
+Tetrahydro-Pseudo-Ionone	1322-58-3	sharp|sour floral brown earthy|woody	fruity
 Tetrahydrofurfuryl Acetate	637-64-9	fruity sharp|sour	fruity
-Tetrahydrofurfuryl Alcohol	"93842-55-8
-72074-94-3
-82853-20-1
-97-99-4"	sweet brown earthy|nutty sharp|bitter	brown earthy|nutty sharp|bitter
+Tetrahydrofurfuryl Alcohol	93842-55-8	sweet brown earthy|nutty sharp|bitter	brown earthy|nutty sharp|bitter
 Tetrahydrofurfuryl Butyrate	2217-33-6	fruity sharp|sour	earthy fruity fruity|berry
 Tetrahydrofurfuryl Propionate	637-65-0	sweet fruity brown	sweet fruity brown
 Tetrahydrogeraniol	106-21-8	floral	
-Tetrahydrolinalool	"57706-88-4
-78-69-3"	sweet floral brown	
-Tetrahydrolinalool	"57706-88-4
-78-69-3"	floral fruity|citrusy	floral vegetal|herbal fruity sharp|bitter fruity|citrusy
+Tetrahydrolinalool	57706-88-4	sweet floral brown	
+Tetrahydrolinalool	57706-88-4	floral fruity|citrusy	floral vegetal|herbal fruity sharp|bitter fruity|citrusy
 Tetramethylethylcyclohexenone		sweet fruity brown dairy	sweet fruity brown
 Thaumatin	53850-34-3	fruity	vegetal
 Thaumatin B-Recombinant			vegetal
@@ -2584,12 +2273,10 @@ Trans, Trans-2,4-Dodecadienal (2E,4E)-	21662-16-8	savory|meaty fatty
 Trans, Trans-2,4-Hexadienal	142-83-6	fruity|citrusy	
 Trans,Trans-2,4-Octadienal	30361-28-5	sharp|sour	
 Trans- And Cis-1-Methoxy-1-Decene	79930-37-3	fruity floral	
-Trans-2-Decenol	"22104-80-9
-18409-18-2"	floral	savory|meaty fruity floral fatty
+Trans-2-Decenol	22104-80-9	floral	savory|meaty fruity floral fatty
 Trans-2-Hexenoic Acid	13419-69-7	sharp|sour	
 Trans-2-Hexenyl 2-Methylbutyrate	94089-01-7	fruity	
-Trans-2-Methyl-2-Butenoic Acid	"13201-46-2
-80-59-1"	sharp|sour sharp|spicy	
+Trans-2-Methyl-2-Butenoic Acid	13201-46-2	sharp|sour sharp|spicy	
 Trans-2-Nonen-1-Ol	31502-14-4	sharp|sour	
 Trans-2-Nonen-4-One	27743-70-0	fruity	
 Trans-2-Trans-4-Heptadien-1-Ol	33467-79-7	fruity	savory|meaty fruity earthy|nutty
@@ -2610,20 +2297,14 @@ Tridecanoic Acid	211-341-1	earthy|woody
 Triethyl Citrate	77-93-0	sharp|sour fruity|citrusy	sharp|bitter
 Triethylamine	121-44-8		savory|meaty fruity starchy
 Triethylamine Oxide	1184-78-7		savory|meaty fruity starchy
-Trimethylamine	"75-50-3
-4558-12-7"	sharp|sour sharp|chemical	
+Trimethylamine	75-50-3	sharp|sour sharp|chemical	
 Trimethyloxazole	20662-84-4	savory|meaty earthy|nutty	savory|meaty fruity brown|chocolate sharp|bitter
 Tripropylamine	102-69-2		savory|meaty fruity starchy
 Trithioacetone	828-26-2	sharp|sulfurous	fruity sharp|bitter fruity|citrusy
 Tuberose		floral	
 Tuberose Lactone	153175-57-6	dairy vegetal|herbal	
 Tuberose Oil	8024-05-3	floral dairy	floral
-Turmeric	"15845-47-3
-8024-37-1
-33171-04-9
-73729-23-4
-79257-48-0
-91884-86-5"	vegetal|herbal fruity vegetal sharp|spicy fatty	vegetal sharp|spicy sharp|bitter vegetal|herbal
+Turmeric	15845-47-3	vegetal|herbal fruity vegetal sharp|spicy fatty	vegetal sharp|spicy sharp|bitter vegetal|herbal
 Turmeric Extract		savory|meaty	
 Turmeric Oleoresin	129828-29-1	fatty	vegetal|herbal
 Turpentine (Gum)	9005-90-7	sharp|sour brown sharp|bitter	sharp|bitter
@@ -2640,9 +2321,7 @@ Valerian		sharp|sour brown
 Valerian Root Extract	8057-49-6	starchy	earthy earthy|nutty
 Valerian Root Oil	8008-88-6	sharp|sour fatty dairy	
 Valeric Acid	109-52-4	sharp|sour	sharp|sour
-Vanilla	"121-33-5
-52447-63-9
-8014-42-4"	brown|vanilla dairy	
+Vanilla	121-33-5	brown|vanilla dairy	
 Vanilla Extract	8024-06-4	brown|vanilla fruity	brown|vanilla fruity fatty earthy|dry
 Vanilla Oleoresin	8023-78-7	dairy	
 Vanillin	121-33-5	brown|vanilla fatty	
@@ -2657,23 +2336,16 @@ Vanillylidene Acetone	1080-12-2		sharp|sour brown
 Veratraldehyde	120-14-9	brown|vanilla earthy|woody	brown|vanilla earthy|woody
 Veratraldehyde	120-14-9	brown|vanilla earthy|woody	brown|vanilla brown|chocolate earthy|woody sharp|bitter
 Verbenol	473-67-6	earthy|woody	
-Verbenone	"5480-12-6
-18309-32-5"	sharp|spicy	savory|meaty fruity
+Verbenone	5480-12-6	sharp|spicy	savory|meaty fruity
 Veronica		vegetal sharp|bitter fatty	sharp|bitter
 Vervain, European			floral fatty
 Vetiver		savory earthy|woody sharp|sour vegetal|vegetable earthy brown	vegetal|vegetable
 Vetiver Oil	8016-96-4	earthy earthy|woody vegetal|vegetable	vegetal|vegetable
-Vetiverol	"65380-59-8
-89-88-3"	sharp|sour brown earthy|woody	savory|meaty fruity earthy|woody
-Vetiveryl Acetate	"117-98-6
-62563-80-8"	earthy|woody	savory|meaty fruity earthy|woody
+Vetiverol	65380-59-8	sharp|sour brown earthy|woody	savory|meaty fruity earthy|woody
+Vetiveryl Acetate	117-98-6	earthy|woody	savory|meaty fruity earthy|woody
 Violet		vegetal floral	floral sharp|bitter
 Violet Leaves Absolute (V. Odorata L.)	8024-08-6	floral dairy	
-Vitamin B1	"115461-66-0
-55463-15-5
-57777-32-9
-59-43-8
-100660-17-1"		sharp|bitter
+Vitamin B1	115461-66-0		sharp|bitter
 Walnut		sharp|sour	vegetal sharp|bitter earthy|nutty
 Walnut Leaves Extract		vegetal|herbal	
 Whortleberry			sharp|sour
@@ -2704,20 +2376,11 @@ d-Decalactone	705-86-2	fruity brown
 d-Dodecalactone	713-95-1	fruity	fatty dairy
 danides		vegetal	
 hydrolysis		floral	
-ketone	"50-00-0
-30525-89-4
-12795-06-1
-112068-71-0
-8005-38-7
-8006-07-3
-8013-13-6
-53026-80-5"		fruity fruity|berry
+ketone	50-00-0		fruity fruity|berry
 	16509-46-9	floral fruity|citrusy	
 	34902-57-3	earthy|woody	
-methyltetralin	"31291-71-1
-1559-81-5"	floral sweet fruity fatty brown	fruity floral sharp|sour
-monoperoxysulfate	"28831-12-1
-156736-99-1"		sweet fruity brown sharp|bitter
+methyltetralin	31291-71-1	floral sweet fruity fatty brown	fruity floral sharp|sour
+monoperoxysulfate	28831-12-1		sweet fruity brown sharp|bitter
 nalool	126-91-0	floral	
 	1937-45-8		vegetal|herbal
 	140194-26-9	vegetal|herbal	vegetal|herbal
